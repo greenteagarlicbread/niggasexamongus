@@ -7,12 +7,12 @@ const path = require('path');
 const bots = [
   {
     token: process.env.TOKEN_1, // Token for Bot 1
-    statusMessages: ["🧐 Watching out for spawns!"],
+    statusMessages: ["🧐 Watching out for spawns!, 💖 Made by Roti with love, 🫳 Remember to touch grass!, 👨‍👩‍👧‍👦 Ballsdex isn't everything."],
     statusTypes: ['idle'],
   },
   {
     token: process.env.TOKEN_2, // Token for Bot 2
-    statusMessages: ["what the fuck do i say here"],
+    statusMessages: ["🫡 Serving the SFB"],
     statusTypes: ['online'],
   },
   // Add more bots as needed
