@@ -7,7 +7,7 @@ const path = require('path');
 const bots = [
   {
     token: process.env.TOKEN_1, // Token for Bot 1
-    statusMessages: ["🧐 Watching out for spawns!, 💖 Made by Roti with love, 🫳 Remember to touch grass!, 👨‍👩‍👧‍👦 Ballsdex isn't everything."],
+    statusMessages: ["🧐 Watching out for spawns!", "💖 Made by Roti with love", "🫳 Remember to touch grass!", "👨‍👩‍👧‍👦 Ballsdex isn't everything."],
     statusTypes: ['idle'],
   },
   {
