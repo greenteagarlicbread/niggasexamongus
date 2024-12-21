@@ -9,7 +9,7 @@ const bots = [
   {
     token: process.env.TOKEN_1,
     statusMessages: ["🧐 Watching out for spawns!", "💖 Made by Roti with love"],
-    statusTypes: ['idle'],
+    statusTypes: ['online'],
   },
   {
     token: process.env.TOKEN_2,
@@ -18,8 +18,8 @@ const bots = [
   },
   {
     token: process.env.TOKEN_3,
-    statusMessages: ["🌟 Managing events!", "💼 Ready to assist"],
-    statusTypes: ['dnd'],
+    statusMessages: ["❄️ Merry Christmas everyone!", "🎁 Run /candy daily!"],
+    statusTypes: ['online'],
   },
 ];
 
