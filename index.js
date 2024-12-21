@@ -15,6 +15,10 @@ const bots = [
     statusMessages: ["🫡 Serving the SFB"],
     statusTypes: ['online'],
   },
+  {
+    token: process.env.TOKEN_3, // Token for Bot 3
+    statusMessages: ["❄️ Merry Christmas!"],
+    statusTypes: ['online'],
   // Add more bots as needed
 ];
 
